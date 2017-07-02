@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Popular Movies</string>
+    <string name="sort_by">Sort by</string>
+    <string name="movie_poster_image_desc">Movie Poster</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <!-- TODO: replace empty string with API key for testing, get key from www.themoviedb.org -->
+    <string name="movie_db_api_key">place key here</string>
+    <string name="check_internet_prompt">Oh oh. Something\'s gone wrong. Can you confirm you have a working internet connection?</string>
+    <string name="no_movies">No movies available today. Check back tomorrow…</string>
+    <string name="popularity_sorting_text">SORTED BY POPULARITY</string>
+    <string name="rating_sorting_text">SORTED BY RATINGS</string>
+    <string name="movie_detail_label">About this Movie</string>
+    <string name="release_date">Released %s</string>
+    <string name="plot_synopsis_header">Plot Synopsis</string>
 </resources>
